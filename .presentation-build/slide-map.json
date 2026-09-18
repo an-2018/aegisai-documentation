@@ -1,0 +1,380 @@
+[
+  {
+    "slide": 1,
+    "title": "AegisAI",
+    "source": "README.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 2,
+    "title": "Project direction and current status",
+    "source": "01-portfolio-strategy.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 3,
+    "title": "Team discussion",
+    "source": "README.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 4,
+    "title": "The original vision remains broader than training",
+    "source": "02-source-traceability.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 5,
+    "title": "Decisions that reshape the earlier plans",
+    "source": "14-decisions.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 6,
+    "title": "Four products and their release windows",
+    "source": "08-roadmap-backlog.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 7,
+    "title": "Customers and product buyers",
+    "source": "01-portfolio-strategy.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 8,
+    "title": "What success means",
+    "source": "01-portfolio-strategy.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 9,
+    "title": "Human Firewall",
+    "source": "products/01-human-firewall.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 10,
+    "title": "Human Firewall release scope",
+    "source": "products/01-human-firewall.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 11,
+    "title": "Human Firewall implementation sequence",
+    "source": "products/01-human-firewall.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 12,
+    "title": "Security Operations",
+    "source": "products/02-security-operations.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 13,
+    "title": "Security Operations first release",
+    "source": "products/02-security-operations.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 14,
+    "title": "Security Operations backlog and gates",
+    "source": "products/02-security-operations.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 15,
+    "title": "Defense Box and Validation",
+    "source": "products/03-defense-box.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 16,
+    "title": "Validation execution boundaries",
+    "source": "products/03-defense-box.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 17,
+    "title": "Defense Box implementation sequence",
+    "source": "products/03-defense-box.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 18,
+    "title": "Agent Security",
+    "source": "products/04-agent-security.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 19,
+    "title": "Agent authority and execution",
+    "source": "products/04-agent-security.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 20,
+    "title": "Agent Security backlog and release",
+    "source": "products/04-agent-security.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 21,
+    "title": "Shared platform architecture",
+    "source": "03-shared-architecture.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 22,
+    "title": "Evidence and action flow",
+    "source": "03-shared-architecture.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 23,
+    "title": "Build, reuse and defer",
+    "source": "03-shared-architecture.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 24,
+    "title": "Deployment and data boundaries",
+    "source": "03-shared-architecture.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 25,
+    "title": "NetBird technical reference",
+    "source": "04-netbird-study.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 26,
+    "title": "NetBird reuse and product ownership",
+    "source": "04-netbird-study.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 27,
+    "title": "NetBird operational constraints",
+    "source": "04-netbird-study.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 28,
+    "title": "Product interfaces",
+    "source": "05-interface-contracts.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 29,
+    "title": "Jobs, approvals and recovery",
+    "source": "05-interface-contracts.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 30,
+    "title": "Research programme",
+    "source": "06-research-programme.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 31,
+    "title": "R0: reproducibility before product claims",
+    "source": "06-research-programme.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 32,
+    "title": "R1: adaptive learning evaluation",
+    "source": "06-research-programme.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 33,
+    "title": "R2–R3: useful detection and explanation",
+    "source": "06-research-programme.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 34,
+    "title": "R4–R5: validation and privacy research",
+    "source": "06-research-programme.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 35,
+    "title": "Frontier agent research",
+    "source": "13-evidence-register.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 36,
+    "title": "Internal agent workspace",
+    "source": "07-internal-agent-workspace.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 37,
+    "title": "Roadmap: months 1–12",
+    "source": "08-roadmap-backlog.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 38,
+    "title": "Roadmap: months 13–24",
+    "source": "08-roadmap-backlog.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 39,
+    "title": "First 90 days",
+    "source": "08-roadmap-backlog.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 40,
+    "title": "Shared implementation dependencies",
+    "source": "08-roadmap-backlog.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 41,
+    "title": "Team capacity and responsibilities",
+    "source": "01-portfolio-strategy.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 42,
+    "title": "Work packages 1–5",
+    "source": "09-work-packages.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 43,
+    "title": "Work packages 6–10",
+    "source": "09-work-packages.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 44,
+    "title": "Market validation",
+    "source": "10-market-business-model.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 45,
+    "title": "Competitive references",
+    "source": "10-market-business-model.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 46,
+    "title": "Open core and commercial value",
+    "source": "10-market-business-model.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 47,
+    "title": "Product packaging",
+    "source": "10-market-business-model.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 48,
+    "title": "Support effort changes the price floor",
+    "source": "10-market-business-model.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 49,
+    "title": "Security and privacy risks",
+    "source": "11-security-privacy-regulation.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 50,
+    "title": "Regulatory applicability",
+    "source": "11-security-privacy-regulation.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 51,
+    "title": "Production readiness at every release",
+    "source": "12-production-handbook.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 52,
+    "title": "Operating targets and runbooks",
+    "source": "12-production-handbook.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 53,
+    "title": "Kickoff decisions and immediate actions",
+    "source": "14-decisions.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 54,
+    "title": "Technical reference",
+    "source": "02-source-traceability.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 55,
+    "title": "Architecture layers 1–7",
+    "source": "02-source-traceability.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 56,
+    "title": "Architecture layers 8–13",
+    "source": "02-source-traceability.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 57,
+    "title": "The five original integrated products",
+    "source": "02-source-traceability.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 58,
+    "title": "Longer-term capabilities remain in scope",
+    "source": "02-source-traceability.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 59,
+    "title": "Default data retention",
+    "source": "11-security-privacy-regulation.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 60,
+    "title": "Contract and failure tests",
+    "source": "05-interface-contracts.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 61,
+    "title": "Research promotion record",
+    "source": "06-research-programme.md",
+    "fullSourceNotes": false
+  },
+  {
+    "slide": 62,
+    "title": "Current evidence and developments",
+    "source": "13-evidence-register.md",
+    "fullSourceNotes": true
+  },
+  {
+    "slide": 63,
+    "title": "Documentation and team follow-through",
+    "source": "README.md",
+    "fullSourceNotes": true
+  }
+]
